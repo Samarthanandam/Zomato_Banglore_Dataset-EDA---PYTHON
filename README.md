@@ -1,10 +1,10 @@
 
-### Zomato Bangalore Restaurants Exploratory Data Analysis (EDA) -- Python
+# Zomato Bangalore Restaurants Exploratory Data Analysis (EDA) -- Python
 
-#### Project Overview:
+### Project Overview:
 This Python project conducts a detailed Exploratory Data Analysis (EDA) of Zomato Bangalore restaurant data. The aim is to provide stakeholders with actionable insights derived from the analysis, enabling informed decision-making regarding Zomato's operations and services in Bangalore.
 
-#### Key Questions Addressed:
+### Key Questions Addressed:
 1. **Various Location Zomato Serves in Bangalore:**
    Identify and analyze the various locations where Zomato serves in Bangalore.
    
@@ -23,7 +23,7 @@ This Python project conducts a detailed Exploratory Data Analysis (EDA) of Zomat
 6. **Top Cuisines Ordered by People:**
    Identify and rank the top cuisines preferred by Zomato users in Bangalore.
 
-#### Methodology:
+### Methodology:
 - **Data Cleaning and Preparation:**
   - Removal of null values and duplicates.
   - Dropping irrelevant parameters.
@@ -35,14 +35,14 @@ This Python project conducts a detailed Exploratory Data Analysis (EDA) of Zomat
 - **Interpretation:**
   - Drawing meaningful conclusions from analysis results.
 
-#### Project Outcome:
+### Project Outcome:
 This project aims to offer stakeholders valuable insights into Zomato's operations and services in Bangalore. The analysis serves as a resource for strategic planning and decision-making.
 
-#### Contributions and Feedback:
+### Contributions and Feedback:
 Contributions and feedback from the open-source community are encouraged. Please feel free to provide suggestions, report issues, or submit pull requests to enhance the analysis and its outcomes.
 
-#### Let's Dive In:
+### Let's Dive In:
 Explore the world of Zomato Bangalore restaurants and uncover compelling insights together!
 
 ---
-# THE DATASET USED IN THIS PROJECT CAN BE DOWNLOADED FROM - https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?resource=download
+### THE DATASET USED IN THIS PROJECT CAN BE DOWNLOADED FROM - https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?resource=download
